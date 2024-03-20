@@ -1,0 +1,53 @@
+command : ll --sort=time
+
+-rw-r--r--   1 root root    12510 Mar 17 18:51 result-terminal.txt
+drwxr-xr-x  20 user user     4096 Mar 17 18:51 ./
+-rw-rw-r--   1 user user 55941299 Mar 17 18:47 build.log
+drwxrwxr-x   6 user user     4096 Mar 17 18:10 .build/
+-rw-r--r--   1 root root    27298 Mar 17 18:04 .config
+-rw-r--r--   1 root root    27302 Mar 17 18:04 .config.old
+drwxr-xr-x   4 root root     4096 Mar 17 18:03 include/
+
+-rw-r--r--   1 root root     4472 Mar 17 17:56 result.txt
+drwxr-xr-x   2 root root     4096 Mar 17 17:55 docs/
+-rw-r--r--   1 root root    61593 Mar 17 17:55 config.log
+drwxr-xr-x   2 root root     4096 Mar 17 17:55 bash-completion/
+-r-xr-xr-x   1 root root    12017 Mar 17 17:55 ct-ng*
+drwxr-xr-x   5 root root     4096 Mar 17 17:55 kconfig/
+-rw-r--r--   1 root root     6579 Mar 17 17:55 config.h
+-rw-r--r--   1 root root       23 Mar 17 17:55 stamp-h1
+drwxr-xr-x  13 root root     4096 Mar 17 17:55 config/
+-rw-r--r--   1 root root      651 Mar 17 17:55 paths.sh
+-rw-r--r--   1 root root   139832 Mar 17 17:55 Makefile
+-rwxr-xr-x   1 root root    37630 Mar 17 17:55 config.status*
+-rw-r--r--   1 root root   140344 Mar 17 17:55 Makefile.in
+drwxr-xr-x   2 root root     4096 Mar 17 17:55 autom4te.cache/
+drwxr-xr-x   8 root root     4096 Mar 17 17:55 .git/
+-rw-r--r--   1 root root     6150 Mar 17 17:55 config.h.in
+-rwxr-xr-x   1 root root   547569 Mar 17 17:55 configure*
+-rw-r--r--   1 root root    45804 Mar 17 17:54 aclocal.m4
+-rw-r--r--   1 root root    97259 Mar 17 17:54 verbatim-data.mk
+drwxr-xr-x   2 root root     4096 Mar 17 17:54 maintainer/
+
+drwxr-xr-x   4 root root     4096 Mar 17 17:17 testing/
+drwxr-xr-x   5 root root     4096 Mar 17 17:17 scripts/
+drwxr-xr-x 124 root root    12288 Mar 17 17:17 samples/
+drwxr-xr-x  44 root root     4096 Mar 17 17:17 packages/
+-rw-r--r--   1 root root      510 Mar 17 17:17 paths.sh.in
+drwxr-xr-x   3 root root     4096 Mar 17 17:17 licenses.d/
+drwxr-xr-x   2 root root     4096 Mar 17 17:17 m4/
+-rw-r--r--   1 root root    11270 Mar 17 17:17 configure.ac
+drwxr-xr-x   3 root root     4096 Mar 17 17:17 contrib/
+-rw-r--r--   1 root root    11823 Mar 17 17:17 ct-ng.in
+drwxr-xr-x   3 root root     4096 Mar 17 17:17 debian/
+-rw-r--r--   1 root root      318 Mar 17 17:17 issue_template.md
+drwxr-xr-x   3 root root     4096 Mar 17 17:17 .github/
+-rw-r--r--   1 root root      638 Mar 17 17:17 .gitignore
+-rw-r--r--   1 root root      225 Mar 17 17:17 .yamllint
+-rw-r--r--   1 root root     2517 Mar 17 17:17 COPYING
+lrwxrwxrwx   1 root root        7 Mar 17 17:17 LICENSE -> COPYING
+-rw-r--r--   1 root root     3038 Mar 17 17:17 Makefile.am
+-rw-r--r--   1 root root     6663 Mar 17 17:17 README.md
+-rw-r--r--   1 root root     8998 Mar 17 17:17 TODO
+-rwxr-xr-x   1 root root    22879 Mar 17 17:17 bootstrap*
+drwxr-xr-x   1 root root     4096 Mar 17 17:17 ../

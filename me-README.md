@@ -1,4 +1,12 @@
 -------------
+note
+-------------
+reason this branch is called `note-2`
+i opened `note` and accidentally created pull request to the original repo
+it seems cannot delete the pull request
+i afraid making new branch called `note` will make the pull request at the original repo to re-appear again
+
+-------------
 Pre-requisite
 -------------
 1. setup docker

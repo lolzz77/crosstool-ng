@@ -25,4 +25,8 @@ build crosstool
 4. `make`
 5. Then, an executable `./ct-ng` should be created
 6. `./ct-ng help` to get list of help
+7. If you encoutner problem where you cannot build as root, https://stackoverflow.com/a/53099177/10521815
+8. in root, and in the current crosstool directory, run `chown user:user .`
+9. `su user`
+10. now build the crosstool
 
